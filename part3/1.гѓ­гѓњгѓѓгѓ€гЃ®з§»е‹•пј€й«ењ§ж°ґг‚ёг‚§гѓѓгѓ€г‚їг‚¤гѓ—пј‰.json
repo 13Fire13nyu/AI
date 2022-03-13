@@ -1,0 +1,52 @@
+{
+  "version": "3.15.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "kaska_on",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          33.38738738738738,
+          218.46846846846844
+        ],
+        [
+          106.81081081081078,
+          139.63963963963963
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "kaska_on",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          563.5675675675675,
+          258.55855855855856
+        ],
+        [
+          506.36036036036035,
+          217.1171171171171
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": 

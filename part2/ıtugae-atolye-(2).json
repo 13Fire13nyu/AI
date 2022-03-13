@@ -1,0 +1,35 @@
+{
+  "version": "3.15.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "kaska_unkown",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          409.5625,
+          104.375
+        ],
+        [
+          1342.375,
+          959.0625
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": 

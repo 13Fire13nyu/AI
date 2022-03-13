@@ -1,0 +1,35 @@
+{
+  "version": "3.15.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "kaska_off",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          1086.0526315789473,
+          1433.6315789473683
+        ],
+        [
+          1377.2807017543857,
+          1040.6491228070174
+        ]
+      ],
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "imagePath": 
